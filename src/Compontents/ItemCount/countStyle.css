@@ -1,0 +1,25 @@
+.counter-container{
+    display: flex;
+    align-items: center;
+}
+
+.count-icon{
+    margin-right: 4rem;
+    margin-left: 4rem;
+    font-size: 32px;
+    border: none;
+    background-color: white;
+}
+
+.count-icon:hover{
+    cursor: pointer;
+}
+
+.count-value{
+    font-size: 22px;
+}
+
+.item-count-btn{
+    display: flex;
+    justify-content: center;
+}

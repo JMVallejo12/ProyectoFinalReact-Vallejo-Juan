@@ -1,0 +1,11 @@
+.list-style{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+}
+
+.item-list-card{
+    text-decoration: none;
+    color: black;
+}

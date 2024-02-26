@@ -1,0 +1,10 @@
+.cats-container{
+    height: 320px;
+    display: flex;
+    margin: 2rem;
+    
+}
+
+.h1-cat{
+    margin-top: 3rem;
+}

@@ -1,0 +1,48 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+    border: 1px solid black;
+    padding: 3rem;
+}
+
+.form-left{
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 0.5rem;
+}
+
+.form-right{
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5rem;
+}
+
+.label-direction{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-bottom: 0.8rem;
+    font-size: 18px;
+}
+
+.h2-form{
+    text-align: center;
+}
+
+.super-container-form{
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+    padding-bottom: 2rem;
+    
+}
+
+.input-style{
+    height: 25px;
+    font-size: 16px;
+    padding-left: 0.4rem;
+    width: 100%;
+}

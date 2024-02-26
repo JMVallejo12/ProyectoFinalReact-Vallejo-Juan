@@ -1,0 +1,21 @@
+.items-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    /* border: 1px solid black; */
+}
+
+.h2-item-container{
+    margin-top: 2.5rem;
+}
+
+.super-items-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    /* border: 1px solid blue; */
+}
